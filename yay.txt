@@ -1,0 +1,20 @@
+File: /Users/tienvu/sandbox/asana/asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/inproductcuetargetinghelpers/cueconfiguration/PortfoliosEducationForFrequentFavoritersTargeting.scala, Occurrences of '\.isFeatureAvailable': 1
+File: /Users/tienvu/sandbox/asana/asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/inproductcuetargetinghelpers/cueconfiguration/DesktopGlobalShortcutsCreateTaskCueTargetingConfig.scala, Occurrences of '\.isFeatureAvailable': 1
+File: /Users/tienvu/sandbox/asana/asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/inproductcuetargetinghelpers/cueconfiguration/FormulaEditorBusinessPlusCueServerConfig.scala, Occurrences of '\.isFeatureAvailable': 1
+File: /Users/tienvu/sandbox/asana/asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/premiumfeatureframework/FeatureAvailabilityApi.scala, Occurrences of '\.isFeatureAvailable': 1
+File: /Users/tienvu/sandbox/asana/asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/machinelearningproductfeatures/MachineLearningUserEligibilityValidator.scala, Occurrences of '\.isFeatureAvailable': 1
+{
+  "featureAvailabilitiesForDomainUser": 0,
+  "featureAvailabilitiesStatesForDomainUser": 0,
+  "getFeatureAvailabilityState": 0,
+  "mapFeatureAvailabilityResultsToInfos": 0,
+  "mapFeatureAvailabilityResultsToFeatureAvailabilityStates": 0,
+  "mapFeatureAvailabilityResultsToFeatureUsageStates": 0,
+  "getFeatureAvailability": 1,
+  "featureAvailabilitiesForBilledProcessConfiguration": 2,
+  "featureAvailabilitiesForBillingAccount": 2,
+  "featureUsageInfosForBillingAccountUsageReactive": 2,
+  "isFeatureAvailable": 5,
+  "getFeatureUsageInfo": 8,
+  "apply": 66
+}
